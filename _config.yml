@@ -50,7 +50,7 @@ linkedin_username: Noah Vaden
 
 # About Section
 # about_title: About Me (Use this to override about section title)
-about_profile_image: Directory of profile image (eg. images/profile.jpg)
+about_profile_image: images/selfie.jpg
 about_content: | # this will include new lines to allow paragraphs
   Write an awesome description about yourself here, this supports markdown, so you can add [links](http://foobar.com) and highlight things <mark>like this</mark>.
 
@@ -67,20 +67,21 @@ content:
       - layout: left
         border: weak  # Value of `weak` will display a weak border below this item. # Any 
                       # other value (or no value) means no border will be displayed
-        title: Project name
-        link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-        link_text: Link Text
-        additional_links:
-          - title:  Github page for project (eg. sproogen/modern-resume-theme)
-            icon: fab fa-github
-            url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-          - title:  Github page for project (eg. sproogen/modern-resume-theme)
-            icon: fab fa-github
-            url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+        title: Composition Today
+        link: https://compositiontoday.net/
+        link_text: Composition Today Website
+        # additional_links:
+        #   - title:  Github page for project (eg. sproogen/modern-resume-theme)
+        #     icon: fab fa-github
+        #     url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+        #   - title:  Github page for project (eg. sproogen/modern-resume-theme)
+        #     icon: fab fa-github
+        #     url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
         quote: >
-          Short overview of the project (optional)
+          Composition today is a website and mobile app designed to facilitate the communication and connection of music composers allowing them to post and view content such as News, Competitions, Concerts, Research Papers and more!
         description: | # this will include new lines to allow paragraphs
-          Description about the work on/with the project
+          My team and I worked to update the existing website as well as create a mobile app that would have similar functionality to the website to deploy onto the stores (for free).
+          My specific focus on the project was in designing a web scraper that searches the web for content that users would be interested in and posts them to the site for admin approval.
   - title: Experience
     layout: list
     content:
