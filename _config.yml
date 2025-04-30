@@ -52,13 +52,13 @@ linkedin_username: noah-vaden-37500b2aa
 # about_title: About Me (Use this to override about section title)
 about_profile_image: images/selfie.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Write an awesome description about yourself here, this supports markdown, so you can add [links](http://foobar.com) and highlight things <mark>like this</mark>.
+  I am a recent graduate from the University of Central Florida where I earned my BA in Computer Science.
 
-  You can even add paragraphs by using empty lines like this and add anything else [markdown](https://www.markdownguide.org/getting-started#what-is-markdown) supports such as
-    - Lists
-    - Tables
-    - <a href="google.com">Links</a>
-    - Images ![alt text](/images/landscape-trees.jpg "Trees")
+  I am currently looking for a job that will challenge me and facilitate my growth as a Software Developer.
+
+  My top three strengths are: Problem Solving, Level headed, Communication
+
+  Some things that I enjoy doing in my free time are Coding Personal Projects, Chess, and Videogames.
 
 content:
   - title: Projects # Title for the section
