@@ -68,8 +68,8 @@ content:
         border: weak  # Value of `weak` will display a weak border below this item. # Any 
                       # other value (or no value) means no border will be displayed
         title: Composition Today
-        #link: https://compositiontoday.net/
-        link_text: [Composition Today Website](https://compositiontoday.net/)
+        link: https://compositiontoday.net/
+        link_text: Project Link
         # additional_links:
         #   - title:  Github page for project (eg. sproogen/modern-resume-theme)
         #     icon: fab fa-github
