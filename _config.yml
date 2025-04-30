@@ -86,34 +86,37 @@ content:
     layout: list
     content:
       - layout: right
-        title: Company name
-        sub_title: Job title
-        caption: Date Range (eg. November 2016 - present)
-        link: Link to company (optional)
+        title: Panda Express
+        sub_title: Front of House Associate
+        caption: August 2022 - present
+        # link: Link to company (optional)
         quote: >
-          Short description of the company (optional)
+          Worked in a team to ensure customer satisfaction and a clean and safe working environment.
         description: | # this will include new lines to allow paragraphs
-          Description of role
+          Working with a team in a fast paced environment, I had to make quick decisions on the most effiecient ways to make and deliver quaity service to customers while also maintaining a clean and safe working environment.
+          Quick problem solving was necessary to balance all roles of this job into an efficient manner so that every part of the process of serving customers could run smoothly.
   - title: Education
     layout: list
     content:
       - layout: top-right
-        title: Institution name
-        sub_title: Qualifications (eg. BA Performing Arts)
-        caption: Date Range (eg. 2016 - 2019)
+        title: University of Central Florida
+        sub_title: BA Computer Science
+        caption: 2022 - 2025
         quote: >
-          Short institution or course description (optional)
+          From the semesters of Fall 2022 - Spring 2025 I worked towards my Bachelors Degree in Computer Science
         description: | # this will include new lines to allow paragraphs
-          Description of qualification
-  - title: A Little More About Me
-    layout: text
-    content: | # this will include new lines to allow paragraphs
-      This is where you can write a little more about yourself. You could title this section **Interests** and include some of your other interests.
+          Working towards this degree has given me a chance to learn everything I need to work as a Software Engineer or related field.
+          I have had the chance to communicate and collaborate with peers and teachers to grow my knoledge in various CS topics and have learned a lot of interpersonal and teamwork skills through this oppurtunity.
+          In persuing this degree, I have gotten hands on experience in how to create quality software that will improve productivity for a wide range of people.
+  # - title: A Little More About Me
+  #   layout: text
+  #   content: | # this will include new lines to allow paragraphs
+  #     This is where you can write a little more about yourself. You could title this section **Interests** and include some of your other interests.
 
-      Or you could title it **Skills** and write a bit more about things that make you more desirable, like *leadership* or *teamwork*
+  #     Or you could title it **Skills** and write a bit more about things that make you more desirable, like *leadership* or *teamwork*
 
 # Footer
-footer_show_references: true
+footer_show_references: false
 # references_title: References on request (Override references text)
 
 # Build settings
