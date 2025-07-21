@@ -69,7 +69,7 @@ content:
                       # other value (or no value) means no border will be displayed
         title: Composition Today
         link: https://compositiontoday.net/
-        link_text: Project Link
+        link_text: Click Here To See
         # additional_links:
         #   - title:  Github page for project (eg. sproogen/modern-resume-theme)
         #     icon: fab fa-github
@@ -82,7 +82,7 @@ content:
         description: | # this will include new lines to allow paragraphs
           My team and I worked to update the existing website as well as create a mobile app that would have similar functionality to the website to deploy onto the stores (for free).
           My specific focus on the project was in designing a web scraper that searches the web for content that users would be interested in and posts them to the site for admin approval.
-  - title: Experience
+  - title: Jobs
     layout: list
     content:
       - layout: right
@@ -101,7 +101,7 @@ content:
       - layout: top-right
         title: University of Central Florida
         sub_title: BA Computer Science
-        caption: 2022 - 2025
+        caption: 8/2022 - 5/2025
         quote: >
           From the semesters of Fall 2022 - Spring 2025 I worked towards my Bachelors Degree in Computer Science
         description: | # this will include new lines to allow paragraphs
