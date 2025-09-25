@@ -82,6 +82,27 @@ content:
         description: | # this will include new lines to allow paragraphs
           My team and I worked to update the existing website as well as create a mobile app that would have similar functionality to the website to deploy onto the stores (for free).
           My specific focus on the project was in designing a web scraper that searches the web for content that users would be interested in and posts them to the site for admin approval.
+
+      - layout: right
+        border: weak  # Value of `weak` will display a weak border below this item. # Any 
+                      # other value (or no value) means no border will be displayed
+        title: Box N' Match
+        link: https://github.com/CadenTheKnight/BoxnMatch
+        link_text: Click Here To See
+        # additional_links:
+        #   - title:  Github page for project (eg. sproogen/modern-resume-theme)
+        #     icon: fab fa-github
+        #     url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+        #   - title:  Github page for project (eg. sproogen/modern-resume-theme)
+        #     icon: fab fa-github
+        #     url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+        quote: >
+          Box N' Match is a 2D Platform Fighter that included local multiplayer and bot enemies for single player
+        description: | # this will include new lines to allow paragraphs
+          My team and I were tasked with creating a game that had an AI component (bot enemies) in about 3-4 months. Although we all did a little bit of everything in terms of variety of tasks for the project,
+          my main focus was in the programming of the abilites that the players used in combat and the AI component of the project. Although, becuase of the quick timespan of the project we were not able to fully polish
+          the game, the game did function as intended and passed the play test at the end of the semester. Sadly this game never got published anywhere and will most likely forever live on github.
+          
   - title: Jobs
     layout: list
     content:
